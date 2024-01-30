@@ -5,6 +5,6 @@
 
 ### Compose Navigation Library - [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation)
 
-![Image Alt text](/screenshots/loginSignUp.png
+![Login Page](screenshots/loginSignUp.png)
 
 
